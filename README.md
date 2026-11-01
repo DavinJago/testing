@@ -2,5 +2,7 @@
 
 1. login
 2. membuat nama
-3. testing
-4. logout
+3. logout
+4. cek ombak
+5. gatau ngapain
+6. tidur
